@@ -30,3 +30,7 @@ The SWIGGY database is designed to manage user information, restaurant details, 
 
 <h3>Project Scope: </h3>
 The project scope includes setting up the database schema, populating tables with sample data, and demonstrating SQL queries for basic operations and data analysis.
+
+
+
+<img src="drawSQL-swiggy-export-2024-01-04.png" alt=" Swiggy Database Schema" width="1000" height="600">
