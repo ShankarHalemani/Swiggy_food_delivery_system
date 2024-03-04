@@ -33,4 +33,4 @@ The project scope includes setting up the database schema, populating tables wit
 
 
 
-<img src="drawSQL-swiggy-export-2024-01-04.png" alt=" Swiggy Database Schema" width="1000" height="600">
+<img src="drawSQL-swiggy-export-2024-01-04.png" alt=" Swiggy Database Schema" width="1200" height="800">
